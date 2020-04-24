@@ -9,3 +9,5 @@ O conteúdo do curso cobre desde os conceitos teóricos iniciais para o entendim
 - Aulas disponíveis na plataforma [Udemy](https://www.udemy.com/git-completo-do-basico-ao-avancado/?couponCode=AULABONUS).
 
 **DevMasterTeam**
+
+uma modificação pra poder fazer o pull 
